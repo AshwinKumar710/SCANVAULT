@@ -56,5 +56,3 @@ flutter,python,Firebase Firestore data base
 3.generate QRcodes
 4.read NFC
 5.Write NFC
-
-Aditya dileep
